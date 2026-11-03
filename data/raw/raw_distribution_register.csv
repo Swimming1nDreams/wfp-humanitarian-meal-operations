@@ -1,0 +1,31 @@
+distribution_id,distribution_date,township,admin3_pcode,implementing_partner,modality,planned_households,reached_households,planned_cash_mmk,actual_disbursed_cash_mmk,planned_food_kg,actual_food_kg,distribution_site,monitoring_officer
+DIST-2026-001,2026-08-07,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,150,139,12000000,11120000,7500,6950,Namhu Rural,Daw Su Su
+DIST-2026-002,2026-08-09,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),180,181,21600000,21720000,0,0,Mahaaungmyay-Ward 4,Daw Su Su
+DIST-2026-003,2026-08-11,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,232,234,23200000,23400000,0,0,Kyetphamweshay,Daw Aye Aye
+DIST-2026-004,2026-08-13,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,364,351,54600000,52650000,9100,8775,Maungmagan Coastal,Daw Su Su
+DIST-2026-005,2026-08-15,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,186,176,14880000,14080000,9300,8800,Namhu Rural,Daw Su Su
+DIST-2026-006,2026-08-17,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,213,214,21300000,21400000,0,0,Kyetphamweshay,Daw Su Su
+DIST-2026-007,2026-08-19,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,222,222,22200000,22200000,0,0,Htawpaing,U Kyaw Kyaw
+DIST-2026-008,2026-08-21,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),416,398,49920000,47760000,0,0,Chanayethazan-East,Daw Aye Aye
+DIST-2026-009,2026-08-23,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,374,357,56100000,53550000,9350,8925,Zahar Village,Daw Aye Aye
+DIST-2026-010,2026-08-25,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,186,190,27900000,28500000,4650,4750,Kyaukmezein,U Tin Tun
+DIST-2026-011,2026-08-27,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),345,352,41400000,42240000,0,0,Pyigyidagun-Ward 7,U Kyaw Kyaw
+DIST-2026-012,2026-08-29,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,368,364,36800000,36400000,0,0,Kyunnyogyi,U Tin Tun
+DIST-2026-013,2026-08-31,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,417,388,62550000,58200000,10425,9700,Kyaukmezein,Daw Su Su
+DIST-2026-014,2026-09-02,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,371,360,37100000,36000000,0,0,Setsan Village,U Tin Tun
+DIST-2026-015,2026-09-04,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,278,277,22240000,22160000,13900,13850,Namhu Rural,Daw Aye Aye
+DIST-2026-016,2026-09-06,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,332,308,26560000,24640000,16600,15400,Mansan IDP Site,Daw Aye Aye
+DIST-2026-017,2026-09-08,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,449,439,67350000,65850000,11225,10975,Launglon North,U Tin Tun
+DIST-2026-018,2026-09-10,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),399,393,47880000,47160000,0,0,Amarapura-Shwekyetyet,Daw Aye Aye
+DIST-2026-019,2026-09-12,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),205,203,24600000,24360000,0,0,Chanayethazan-East,U Kyaw Kyaw
+DIST-2026-020,2026-09-14,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),272,262,32640000,31440000,0,0,Amarapura-Shwekyetyet,Daw Aye Aye
+DIST-2026-021,2026-09-16,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),327,326,39240000,39120000,0,0,Amarapura-Shwekyetyet,Daw Aye Aye
+DIST-2026-022,2026-09-18,Mandalay,MMR004001,Terre des hommes (Tdh),Maternal & Child Cash Transfer (MCCT),354,360,42480000,43200000,0,0,Amarapura-Shwekyetyet,U Kyaw Kyaw
+DIST-2026-023,2026-09-20,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,440,414,66000000,62100000,11000,10350,Kyaukmezein,U Kyaw Kyaw
+DIST-2026-024,2026-09-22,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,361,366,28880000,29280000,18050,18300,Hsenwi Outskirts,U Tin Tun
+DIST-2026-025,2026-09-24,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,326,313,26080000,25040000,16300,15650,Ward 12 Camp,U Tin Tun
+DIST-2026-026,2026-09-26,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Health & Livelihood Cash,174,166,17400000,16600000,0,0,Htawpaing,Daw Su Su
+DIST-2026-027,2026-09-28,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Education & Emergency Cash Assistance,435,440,65250000,66000000,10875,11000,Kyaukmezein,Daw Aye Aye
+DIST-2026-028,2026-09-30,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,238,243,19040000,19440000,11900,12150,Mansan IDP Site,U Tin Tun
+DIST-2026-029,2026-10-02,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,425,428,34000000,34240000,21250,21400,Ward 12 Camp,U Tin Tun
+DIST-2026-030,2026-10-04,Lashio,MMR014001,Best Shelter,Emergency Food Basket & Nutrition,201,206,16080000,16480000,10050,10300,Mansan IDP Site,Daw Aye Aye

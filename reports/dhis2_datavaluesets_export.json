@@ -1,0 +1,92 @@
+{
+  "dataSet": "WFP_MEAL_MONTHLY_REPORT",
+  "completeDate": "2026-10-31",
+  "period": "202608",
+  "orgUnit": "MMR_COUNTRY_LEVEL",
+  "dataValues": [
+    {
+      "dataElement": "fcs_acc_de_01",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "77",
+      "comment": "WFP PDM Survey Mandalay FCS Acceptable HHs"
+    },
+    {
+      "dataElement": "fcs_poor_de_02",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "4",
+      "comment": "WFP PDM Survey Mandalay FCS Poor HHs"
+    },
+    {
+      "dataElement": "plw_count_de_03",
+      "period": "202608",
+      "orgUnit": "MMR004001",
+      "value": "12",
+      "comment": "Nutrition Cash PLW Beneficiaries in Mandalay"
+    },
+    {
+      "dataElement": "fcs_acc_de_01",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "84",
+      "comment": "WFP PDM Survey Dawei FCS Acceptable HHs"
+    },
+    {
+      "dataElement": "fcs_poor_de_02",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "3",
+      "comment": "WFP PDM Survey Dawei FCS Poor HHs"
+    },
+    {
+      "dataElement": "plw_count_de_03",
+      "period": "202608",
+      "orgUnit": "MMR007001",
+      "value": "9",
+      "comment": "Nutrition Cash PLW Beneficiaries in Dawei"
+    },
+    {
+      "dataElement": "fcs_acc_de_01",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "59",
+      "comment": "WFP PDM Survey Lashio FCS Acceptable HHs"
+    },
+    {
+      "dataElement": "fcs_poor_de_02",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "4",
+      "comment": "WFP PDM Survey Lashio FCS Poor HHs"
+    },
+    {
+      "dataElement": "plw_count_de_03",
+      "period": "202608",
+      "orgUnit": "MMR014001",
+      "value": "6",
+      "comment": "Nutrition Cash PLW Beneficiaries in Lashio"
+    },
+    {
+      "dataElement": "fcs_acc_de_01",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "76",
+      "comment": "WFP PDM Survey Bogale FCS Acceptable HHs"
+    },
+    {
+      "dataElement": "fcs_poor_de_02",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "4",
+      "comment": "WFP PDM Survey Bogale FCS Poor HHs"
+    },
+    {
+      "dataElement": "plw_count_de_03",
+      "period": "202608",
+      "orgUnit": "MMR017006",
+      "value": "8",
+      "comment": "Nutrition Cash PLW Beneficiaries in Bogale"
+    }
+  ]
+}

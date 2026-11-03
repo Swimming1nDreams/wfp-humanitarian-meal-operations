@@ -1,0 +1,30 @@
+record_id,household_id,field,issue_type,raw_value,cleaned_value,action_taken
+100008,HH-MAN-0008,township,Formatting / Inconsistent Casing,mandalay ,Mandalay,Standardized to canonical title case
+100023,HH-BOG-0023,township,Formatting / Inconsistent Casing,DAWEI,Dawei,Standardized to canonical title case
+100091,HH-DAW-0091,township,Formatting / Inconsistent Casing,bogale,Bogale,Standardized to canonical title case
+900013,HH-DAW-0013,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900020,HH-BOG-0020,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900441,HH-LAS-0441,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900212,HH-MAN-0212,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900267,HH-DAW-0267,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900206,HH-LAS-0206,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900428,HH-MAN-0428,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900380,HH-MAN-0380,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900092,HH-BOG-0092,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+900207,HH-BOG-0207,_id / household_id,Exact Duplicate Submission,Duplicate of earlier submission,REMOVED,Dropped redundant duplicate submission record
+100210,HH-BOG-0210,household_id,Multiple Household Survey Attempts,2026-08-12 14:25:36,REMOVED (Kept Latest),Retained most recent verified interview
+100015,HH-DAW-0015,household_id,Multiple Household Survey Attempts,2026-09-25 09:37:36,REMOVED (Kept Latest),Retained most recent verified interview
+100043,HH-LAS-0042,household_id,Multiple Household Survey Attempts,2026-08-12 14:56:00,REMOVED (Kept Latest),Retained most recent verified interview
+100088,HH-LAS-0088,household_id,Multiple Household Survey Attempts,2026-08-15 12:22:24,REMOVED (Kept Latest),Retained most recent verified interview
+100121,HH-LAS-0120,household_id,Multiple Household Survey Attempts,2026-09-09 16:51:48,REMOVED (Kept Latest),Retained most recent verified interview
+100013,HH-DAW-0013,fcs_cereals_tubers,Out of Range (0-7 Days Recall Violation),10,7,Capped to boundary limit (7 days)
+100066,HH-LAS-0066,fcs_vegetables,Out of Range (0-7 Days Recall Violation),-2,0,Capped to boundary limit (0 days)
+100035,HH-DAW-0035,fcs_meat_fish_eggs,Out of Range (0-7 Days Recall Violation),9,7,Capped to boundary limit (7 days)
+100100,HH-DAW-0100,cs_reduce_portion,Out of Range (0-7 Days Recall Violation),12,7,Capped to boundary limit (7 days)
+100019,HH-DAW-0019,head_age,Extreme Age Anomaly / Typing Error,6,18,Adjusted to valid threshold (18) and flagged for field focal verification
+100056,HH-MAN-0056,head_age,Extreme Age Anomaly / Typing Error,195,35,Adjusted to valid threshold (35) and flagged for field focal verification
+100116,HH-DAW-0116,household_size & children_under_5,Logical Contradiction,HH size=1 with 4 under-5 kids,HH size adjusted to 5,Corrected household size to include dependent children
+100083,HH-MAN-0083,cash_received_mmk,Extreme Value / Decimal Typing Error,12000000,120000,"Reconciled to standard approved program entitlement (120,000 MMK)"
+100026,HH-DAW-0026,head_gender,Missing Mandatory Demography,NULL/NaN,Female (Modal Default),Imputed with program target mode and flagged for enumerator follow-up
+100061,HH-DAW-0061,head_gender,Missing Mandatory Demography,NULL/NaN,Female (Modal Default),Imputed with program target mode and flagged for enumerator follow-up
+100106,HH-LAS-0106,satisfaction_score,Missing Rating,NULL/NaN,4,Imputed with median satisfaction score (4.0)

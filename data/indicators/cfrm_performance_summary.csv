@@ -1,0 +1,2 @@
+total_feedback_logged,resolved_tickets,in_progress_tickets,escalated_sensitive_tickets,overall_resolution_rate_pct,sla_compliance_rate_pct,average_resolution_turnaround_days,sensitive_safeguarding_count,sensitive_escalated_safeguarding_rate_pct
+90,64,18,8,71.1,50.0,5.8,16,68.8

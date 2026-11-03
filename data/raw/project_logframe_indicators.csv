@@ -1,0 +1,7 @@
+indicator_id,cluster_sector,indicator_statement,baseline_val,target_val,unit,calculation_module,donor
+IND-FS-01,Food Security (FSAC),% of assisted households with Acceptable Food Consumption Score (FCS > 35),42.0,70.0,%,wfp_indicators.py,WFP / ECHO
+IND-FS-02,Food Security (FSAC),% of assisted households classified as Food Secure or Marginally Secure by CARI Console,35.0,65.0,%,cari_engine.py,WFP Executive Board
+IND-FS-03,Food Security (FSAC),Mean reduced Coping Strategy Index (rCSI) among beneficiary households,14.8,6.5,Score (Lower is better),wfp_indicators.py,USAID / BHA
+IND-NUT-01,Nutrition (MCCT),Total pregnant and lactating women (PLW) reached with nutrition-sensitive cash,0.0,250.0,Individuals,dqa_cleaning_pipeline.py,Tdh / LIFT
+IND-AAP-01,Cross-Cutting AAP,% of received CFRM community feedback tickets resolved within defined SLA timeframe,50.0,85.0,%,cfrm_tracker.py,IASC Standard
+IND-AAP-02,Cross-Cutting AAP / PSEA,% of PSEA Category 5 complaints escalated to Country Director / PSEA focal within 24 hours,100.0,100.0,%,cfrm_tracker.py,UN Core Humanitarian Standard

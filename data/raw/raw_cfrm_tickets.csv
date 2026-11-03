@@ -1,0 +1,91 @@
+ticket_id,intake_date,township,admin3_pcode,implementing_partner,intake_channel,beneficiary_gender,category,severity_level,target_sla_days,status,days_to_resolve,closed_date,sla_compliance
+CFRM-2026-0001,2026-09-02,Lashio,MMR014001,Best Shelter,Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Investigating,,,Pending
+CFRM-2026-0002,2026-09-25,Lashio,MMR014001,Best Shelter,Help Desk at Site,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,10.0,2026-10-05,No
+CFRM-2026-0003,2026-09-16,Lashio,MMR014001,Best Shelter,Post-Monitoring Interview,Female,Category 4: Fraud / Diversion / Misconduct,High,3,Investigating,,,Pending
+CFRM-2026-0004,2026-09-30,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Resolved,7.0,2026-10-07,No
+CFRM-2026-0005,2026-08-23,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Male,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,2.0,2026-08-25,Yes
+CFRM-2026-0006,2026-09-10,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Male,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,8.0,2026-09-18,No
+CFRM-2026-0007,2026-09-07,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,3.0,2026-09-10,Yes
+CFRM-2026-0008,2026-08-12,Mandalay,MMR004001,Terre des hommes (Tdh),Community Focal Point,Male,Category 1: Request for Information,Low,5,Resolved,9.0,2026-08-21,No
+CFRM-2026-0009,2026-10-15,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,7.0,2026-10-22,Yes
+CFRM-2026-0010,2026-09-25,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,4.0,2026-09-29,Yes
+CFRM-2026-0011,2026-08-19,Lashio,MMR014001,Best Shelter,Suggestion Box,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,4.0,2026-08-23,Yes
+CFRM-2026-0012,2026-10-13,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Female,Category 1: Request for Information,Low,5,Resolved,4.0,2026-10-17,Yes
+CFRM-2026-0013,2026-10-19,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,8.0,2026-10-27,No
+CFRM-2026-0014,2026-10-04,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-10-15,No
+CFRM-2026-0015,2026-10-10,Mandalay,MMR004001,Terre des hommes (Tdh),Hotline Toll-Free,Male,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,6.0,2026-10-16,No
+CFRM-2026-0016,2026-08-13,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0017,2026-10-06,Bogale,MMR017006,Myanmar Youth Stars (MYS),Post-Monitoring Interview,Male,Category 1: Request for Information,Low,5,Resolved,4.0,2026-10-10,Yes
+CFRM-2026-0018,2026-10-18,Bogale,MMR017006,Myanmar Youth Stars (MYS),Suggestion Box,Male,Category 1: Request for Information,Low,5,Resolved,1.0,2026-10-19,Yes
+CFRM-2026-0019,2026-08-19,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Investigating,,,Pending
+CFRM-2026-0020,2026-09-01,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Hotline Toll-Free,Male,Category 5: PSEA / Serious Safeguarding Violation,Critical,1,Investigating,,,Pending
+CFRM-2026-0021,2026-08-22,Mandalay,MMR004001,Terre des hommes (Tdh),Post-Monitoring Interview,Male,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0022,2026-08-27,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,7.0,2026-09-03,Yes
+CFRM-2026-0023,2026-09-02,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-09-13,No
+CFRM-2026-0024,2026-08-22,Mandalay,MMR004001,Terre des hommes (Tdh),Suggestion Box,Female,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0025,2026-08-22,Mandalay,MMR004001,Terre des hommes (Tdh),Hotline Toll-Free,Anonymous,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,1.0,2026-08-23,Yes
+CFRM-2026-0026,2026-08-13,Lashio,MMR014001,Best Shelter,Post-Monitoring Interview,Female,Category 1: Request for Information,Low,5,Resolved,3.0,2026-08-16,Yes
+CFRM-2026-0027,2026-10-12,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-10-23,No
+CFRM-2026-0028,2026-09-01,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,8.0,2026-09-09,No
+CFRM-2026-0029,2026-10-17,Mandalay,MMR004001,Terre des hommes (Tdh),Suggestion Box,Anonymous,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-10-28,No
+CFRM-2026-0030,2026-08-31,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,10.0,2026-09-10,No
+CFRM-2026-0031,2026-10-19,Lashio,MMR014001,Best Shelter,Community Focal Point,Anonymous,Category 4: Fraud / Diversion / Misconduct,High,3,Investigating,,,Pending
+CFRM-2026-0032,2026-08-28,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 1: Request for Information,Low,5,Resolved,6.0,2026-09-03,No
+CFRM-2026-0033,2026-10-10,Mandalay,MMR004001,Terre des hommes (Tdh),Hotline Toll-Free,Male,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,6.0,2026-10-16,No
+CFRM-2026-0034,2026-10-17,Lashio,MMR014001,Best Shelter,Community Focal Point,Male,Category 4: Fraud / Diversion / Misconduct,High,3,Investigating,,,Pending
+CFRM-2026-0035,2026-09-04,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 1: Request for Information,Low,5,Resolved,8.0,2026-09-12,No
+CFRM-2026-0036,2026-09-20,Mandalay,MMR004001,Terre des hommes (Tdh),Community Focal Point,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,5.0,2026-09-25,Yes
+CFRM-2026-0037,2026-08-15,Mandalay,MMR004001,Terre des hommes (Tdh),Hotline Toll-Free,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,10.0,2026-08-25,No
+CFRM-2026-0038,2026-08-16,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Hotline Toll-Free,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,4.0,2026-08-20,Yes
+CFRM-2026-0039,2026-08-16,Lashio,MMR014001,Best Shelter,Post-Monitoring Interview,Female,Category 5: PSEA / Serious Safeguarding Violation,Critical,1,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0040,2026-08-15,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,4.0,2026-08-19,Yes
+CFRM-2026-0041,2026-09-05,Lashio,MMR014001,Best Shelter,Help Desk at Site,Male,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0042,2026-08-24,Bogale,MMR017006,Myanmar Youth Stars (MYS),Hotline Toll-Free,Anonymous,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0043,2026-09-08,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 5: PSEA / Serious Safeguarding Violation,Critical,1,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0044,2026-09-12,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,5.0,2026-09-17,Yes
+CFRM-2026-0045,2026-09-13,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Hotline Toll-Free,Female,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,3.0,2026-09-16,Yes
+CFRM-2026-0046,2026-10-11,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Investigating,,,Pending
+CFRM-2026-0047,2026-09-07,Bogale,MMR017006,Myanmar Youth Stars (MYS),Hotline Toll-Free,Female,Category 1: Request for Information,Low,5,Resolved,8.0,2026-09-15,No
+CFRM-2026-0048,2026-09-20,Mandalay,MMR004001,Terre des hommes (Tdh),Suggestion Box,Anonymous,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0049,2026-09-15,Lashio,MMR014001,Best Shelter,Suggestion Box,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,4.0,2026-09-19,Yes
+CFRM-2026-0050,2026-10-12,Mandalay,MMR004001,Terre des hommes (Tdh),Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,8.0,2026-10-20,No
+CFRM-2026-0051,2026-08-14,Mandalay,MMR004001,Terre des hommes (Tdh),Help Desk at Site,Female,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0052,2026-09-26,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0053,2026-09-19,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,5.0,2026-09-24,Yes
+CFRM-2026-0054,2026-09-04,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 1: Request for Information,Low,5,Resolved,9.0,2026-09-13,No
+CFRM-2026-0055,2026-09-03,Mandalay,MMR004001,Terre des hommes (Tdh),Community Focal Point,Female,Category 1: Request for Information,Low,5,Resolved,4.0,2026-09-07,Yes
+CFRM-2026-0056,2026-08-28,Lashio,MMR014001,Best Shelter,Suggestion Box,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Investigating,,,Pending
+CFRM-2026-0057,2026-08-31,Mandalay,MMR004001,Terre des hommes (Tdh),Suggestion Box,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-09-11,No
+CFRM-2026-0058,2026-08-10,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Hotline Toll-Free,Male,Category 1: Request for Information,Low,5,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0059,2026-08-14,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Investigating,,,Pending
+CFRM-2026-0060,2026-09-28,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0061,2026-08-29,Bogale,MMR017006,Myanmar Youth Stars (MYS),Post-Monitoring Interview,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,5.0,2026-09-03,Yes
+CFRM-2026-0062,2026-09-28,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Female,Category 5: PSEA / Serious Safeguarding Violation,Critical,1,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0063,2026-10-07,Lashio,MMR014001,Best Shelter,Post-Monitoring Interview,Male,Category 1: Request for Information,Low,5,Resolved,3.0,2026-10-10,Yes
+CFRM-2026-0064,2026-09-30,Lashio,MMR014001,Best Shelter,Community Focal Point,Female,Category 1: Request for Information,Low,5,Resolved,7.0,2026-10-07,No
+CFRM-2026-0065,2026-09-20,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Resolved,4.0,2026-09-24,Yes
+CFRM-2026-0066,2026-09-25,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Post-Monitoring Interview,Male,Category 2: Request for Assistance / Inclusions,Medium,7,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0067,2026-08-28,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Female,Category 1: Request for Information,Low,5,Resolved,7.0,2026-09-04,No
+CFRM-2026-0068,2026-09-22,Mandalay,MMR004001,Terre des hommes (Tdh),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Resolved,7.0,2026-09-29,No
+CFRM-2026-0069,2026-08-13,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Male,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,6.0,2026-08-19,No
+CFRM-2026-0070,2026-09-04,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,3.0,2026-09-07,Yes
+CFRM-2026-0071,2026-10-16,Bogale,MMR017006,Myanmar Youth Stars (MYS),Hotline Toll-Free,Male,Category 1: Request for Information,Low,5,Resolved,1.0,2026-10-17,Yes
+CFRM-2026-0072,2026-08-21,Mandalay,MMR004001,Terre des hommes (Tdh),Suggestion Box,Female,Category 1: Request for Information,Low,5,Resolved,4.0,2026-08-25,Yes
+CFRM-2026-0073,2026-09-25,Lashio,MMR014001,Best Shelter,Suggestion Box,Male,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,8.0,2026-10-03,No
+CFRM-2026-0074,2026-09-16,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Male,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,3.0,2026-09-19,Yes
+CFRM-2026-0075,2026-10-17,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,8.0,2026-10-25,No
+CFRM-2026-0076,2026-09-10,Lashio,MMR014001,Best Shelter,Help Desk at Site,Anonymous,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,1.0,2026-09-11,Yes
+CFRM-2026-0077,2026-10-09,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Community Focal Point,Female,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,6.0,2026-10-15,No
+CFRM-2026-0078,2026-09-02,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Anonymous,Category 4: Fraud / Diversion / Misconduct,High,3,Resolved,5.0,2026-09-07,No
+CFRM-2026-0079,2026-08-20,Lashio,MMR014001,Best Shelter,Hotline Toll-Free,Female,Category 4: Fraud / Diversion / Misconduct,High,3,Investigating,,,Pending
+CFRM-2026-0080,2026-08-24,Bogale,MMR017006,Myanmar Youth Stars (MYS),Suggestion Box,Female,Category 4: Fraud / Diversion / Misconduct,High,3,Escalated to PSEA Focal,,,Pending
+CFRM-2026-0081,2026-10-12,Mandalay,MMR004001,Terre des hommes (Tdh),Post-Monitoring Interview,Male,Category 1: Request for Information,Low,5,Resolved,3.0,2026-10-15,Yes
+CFRM-2026-0082,2026-09-03,Lashio,MMR014001,Best Shelter,Suggestion Box,Anonymous,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,1.0,2026-09-04,Yes
+CFRM-2026-0083,2026-08-31,Bogale,MMR017006,Myanmar Youth Stars (MYS),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Resolved,7.0,2026-09-07,No
+CFRM-2026-0084,2026-10-07,Lashio,MMR014001,Best Shelter,Suggestion Box,Male,Category 1: Request for Information,Low,5,Resolved,1.0,2026-10-08,Yes
+CFRM-2026-0085,2026-09-04,Mandalay,MMR004001,Terre des hommes (Tdh),Community Focal Point,Female,Category 1: Request for Information,Low,5,Investigating,,,Pending
+CFRM-2026-0086,2026-10-14,Bogale,MMR017006,Myanmar Youth Stars (MYS),Community Focal Point,Male,Category 1: Request for Information,Low,5,Resolved,6.0,2026-10-20,No
+CFRM-2026-0087,2026-10-11,Lashio,MMR014001,Best Shelter,Suggestion Box,Female,Category 2: Request for Assistance / Inclusions,Medium,7,Resolved,11.0,2026-10-22,No
+CFRM-2026-0088,2026-09-19,Mandalay,MMR004001,Terre des hommes (Tdh),Hotline Toll-Free,Female,Category 3: Minor Dissatisfaction / Quality / Delay,Medium,7,Resolved,2.0,2026-09-21,Yes
+CFRM-2026-0089,2026-09-26,Dawei,MMR007001,Shwe Kyun Thar Network (SKT),Help Desk at Site,Male,Category 1: Request for Information,Low,5,Resolved,2.0,2026-09-28,Yes
+CFRM-2026-0090,2026-08-11,Mandalay,MMR004001,Terre des hommes (Tdh),Post-Monitoring Interview,Female,Category 1: Request for Information,Low,5,Resolved,8.0,2026-08-19,No
